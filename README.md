@@ -20,3 +20,6 @@ To install cEditor, follow these steps:
 
    ```bash
    git clone https://github.com/shashishekharazad/cEditor.git
+   cd cEditor
+   make
+   ./cEditor
